@@ -10,6 +10,10 @@ group :development, :test do
   gem 'rspec-rails', '2.11.0'
 end
 
+group :test do
+  gem 'capybara', '1.1.2'
+end
+
 gem 'annotate', '2.5.0', group: :development
 
 # Gems used only for assets and not required
