@@ -157,7 +157,7 @@ DEPENDENCIES
   coffee-rails (~> 3.2.1)
   factory_girl_rails (= 4.1.0)
   jquery-rails
-  pg (= 0.12.2)
+  pg
   rails (= 3.2.8)
   rb-readline
   rspec-rails (= 2.11.0)
