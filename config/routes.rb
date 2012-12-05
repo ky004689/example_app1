@@ -3,6 +3,7 @@ ExampleApp::Application.routes.draw do
   resources :sessions, only: [:new, :create, :destroy]
   resources :users
 
+
   get "static_pages/home"
   get "static_pages/help"
   get "static_pages/about"
