@@ -6,7 +6,7 @@ class MicropostsController < ApplicationController
 
     respond_to do |format|
       format.html # index.html.erb
-      format.json { render json: @microposts }
+      format.json { render json: @microposts } 
     end
   end
 
