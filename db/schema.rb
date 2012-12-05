@@ -13,7 +13,7 @@
 
 ActiveRecord::Schema.define(:version => 20121110215158) do
 
-  create_table "microposts", :force => true do |t|
+  create_table "microposts", :force => true do |t| 
     t.string   "content"
     t.integer  "user_id"
     t.datetime "created_at", :null => false
