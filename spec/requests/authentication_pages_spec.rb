@@ -46,5 +46,9 @@ describe "Authentication" do
       end
     end
   end
+<<<<<<< HEAD
 end
 
+=======
+end 
+>>>>>>> updating-users
