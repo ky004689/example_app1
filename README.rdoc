@@ -1,6 +1,3 @@
-==Don't read me
-Comp.Sci. (300) coursework
-
 bundle install
 bundle rake db:reset
 bundle rake db:populate
